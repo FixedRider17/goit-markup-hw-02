@@ -1,0 +1,13 @@
+.footer {
+  background-color: var(--navy-blue);
+}
+
+.logo-part2 {
+  color: var(--cloud);
+}
+
+.footer-text {
+  color: var(--cloud);
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
