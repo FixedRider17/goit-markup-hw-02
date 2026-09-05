@@ -3,6 +3,8 @@
 }
 
 .hero-title {
+  max-width: 496px;
+  margin: 0 auto;
   color: var(--white);
   font-size: 56px;
   font-weight: 700;
@@ -24,4 +26,10 @@
 .btn:hover,
 .btn:focus {
   background-color: var(--ocean);
+}
+.hero-container {
+  padding: 0 15px;
+  width: 1158px;
+  height: 224px;
+  max-width: 1158px;
 }
