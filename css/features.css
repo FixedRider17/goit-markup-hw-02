@@ -1,9 +1,9 @@
 .features {
-  background-color: var(--white);
+  background-color: #ffffff;
 }
 
 .feature-name {
-  color: var(--navy-blue);
+  color: #2e2f42;
   font-size: 36px;
   font-weight: 700;
   line-height: 1.11;
@@ -12,15 +12,21 @@
 }
 
 .features-title {
-  color: var(--navy-blue);
+  color: #2e2f42;
   font-size: 20px;
   font-weight: 500;
   line-height: 1.2;
   letter-spacing: 0.02em;
 }
+.features-title {
+  text-align: center;
+}
 
 .features-text {
-  color: var(--slate);
+  color: #434455;
   line-height: 1.5;
   letter-spacing: 0.02em;
+}
+.features-text {
+  text-align: center;
 }

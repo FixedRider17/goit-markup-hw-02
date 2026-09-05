@@ -1,9 +1,9 @@
 .team {
-  background-color: var(--cloud);
+  background-color: #f4f4fd;
 }
 
 .team-title {
-  color: var(--navy-blue);
+  color: #2e2f42;
   font-size: 36px;
   font-weight: 700;
   line-height: 1.11;
@@ -12,11 +12,11 @@
 }
 
 .team-item {
-  background-color: var(--white);
+  background-color: #ffffff;
 }
 
 .team-name {
-  color: var(--navy-blue);
+  color: #2e2f42;
   font-size: 20px;
   font-weight: 500;
   line-height: 1.2;
@@ -24,12 +24,7 @@
 }
 
 .team-position {
-  color: var(--slate);
+  color: #434455;
   line-height: 1.5;
   letter-spacing: 0.02em;
-}
-.container {
-  width: 1158px;
-  margin: 0 auto;
-  padding: 0 15px;
 }
