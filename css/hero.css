@@ -3,8 +3,6 @@
 }
 
 .hero-title {
-  max-width: 496px;
-  margin: 0 auto;
   color: #ffffff;
   font-size: 56px;
   font-weight: 700;
@@ -25,7 +23,7 @@
 
 .btn:hover,
 .btn:focus {
-  background-color: #404bbf;
+  background-color: #4d5ae5;
 }
 .btn {
   cursor: pointer;

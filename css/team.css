@@ -22,9 +22,15 @@
   line-height: 1.2;
   letter-spacing: 0.02em;
 }
+.team-name {
+  text-align: center;
+}
 
 .team-position {
   color: #434455;
   line-height: 1.5;
   letter-spacing: 0.02em;
+}
+.team-position {
+  text-align: center;
 }
