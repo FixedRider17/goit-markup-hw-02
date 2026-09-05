@@ -14,17 +14,15 @@
 .btn {
   font-family: var(--font-family);
   color: #ffffff;
-  background-color: #4d4bbf;
+  background-color: #4d5ae5;
   font-size: 16px;
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.04em;
+  cursor: pointer;
 }
 
 .btn:hover,
 .btn:focus {
-  background-color: #4d5ae5;
-}
-.btn {
-  cursor: pointer;
+  background-color: #404bbf;
 }
